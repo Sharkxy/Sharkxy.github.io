@@ -1,0 +1,170 @@
+body {
+	font-size: 14px;
+	text-align:left;
+	color:#000;
+	background: #fffffc;
+}
+* {
+	margin:0;
+	padding:0;
+}
+img {
+	border:none;
+	vertical-align:middle;
+}
+a {
+	color: #333;
+	text-decoration: none;
+}
+em {
+	font-style: normal;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+#main {
+	width: 1200px;
+	margin: 0 auto;
+	background: #fff;
+}
+#left {
+	float: left;
+	width: 400px;
+	margin-left: 6px;
+	background: #f1f1f0;
+}
+#right {
+	overflow: hidden;
+}
+.box1 {
+	text-align: center;
+}
+.box1 p {
+	text-align: center;
+	font-size: 36px;
+	margin-bottom: 20px;
+	padding-top: 30px;
+}
+.box1 img {
+	max-width: 40%;
+	border-radius: 100%;
+}
+.box1 h3 {
+	text-align: center;
+	font-size: 26px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+.box1 h3 img {
+	vertical-align: middle;
+	display: inline-block;
+	margin: -3px 10px 0 0;
+}
+.box2 {
+	font-size: 0;
+	margin-bottom: 2px;
+}
+.box2 span {
+	width: 132px;
+	height: 132px;
+	vertical-align: middle;
+	background: #e6e5e2;
+	display: inline-block;
+	font-size: 16px;
+	text-align: center;
+	margin-right: 2px;
+}
+.box2 span b {
+	display: block;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 20px;
+	font-weight: normal;
+}
+.box2 span:last-child {
+	margin-right: 0;
+}
+.box3 {
+	padding-bottom: 350px;
+}
+.box3 a {
+	font-size: 24px;
+	color: #a5a19f;
+	display: block;
+	padding: 20px 0 20px 40px;
+}
+.box3 a img {
+	vertical-align: middle;
+	display: inline-block;
+	margin: -3px 30px 0 0;
+}
+.box3 a.on {
+	background: #e6e5e2;
+	color: #000;
+}
+.rbox {
+	padding-left: 56px;
+	background: #fff;
+}
+.top {
+	padding: 75px 0 65px;
+}
+.box5 h3 {
+	font-size: 40px;
+	margin-bottom: 36px;
+}
+.box5 p {
+	font-size: 20px;
+	line-height: 36px;
+}
+.t1 {
+	color: #726d6a;
+}
+.t1 img {
+	margin: -3px 20px 0 0;
+}
+.t2 {
+	margin-bottom: 20px;
+}
+.box6 h3 {
+	font-size: 30px;
+	padding: 50px 0;
+}
+.box6 p span {
+	margin-right: 35px;
+}
+.box4 {
+	background: #fdfefe;
+	margin-right: 4px;
+	padding: 80px 10px 80px 55px;
+}
+.box4 h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+.b4t p {
+	font-size: 18px;
+}
+.b4t {
+	margin-bottom: 40px;
+}
+.b4b p {
+	line-height: 40px;
+	font-weight: bold;
+	color: #726d69;
+	font-size: 18px
+}
+.b4b p img {
+	vertical-align: middle;
+	display: inline-block;
+	margin: -3px 10px 0 0;
+}
+
+
+
+
+
